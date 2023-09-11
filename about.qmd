@@ -1,0 +1,14 @@
+---
+title: "About"
+---
+
+About tonyshumlh
+
+## Favorite Food
+My favorite food is sushi.
+
+## Free Time
+I like to fence in my free time.
+
+## Learned
+I learned that it is very important to make sure the working directory in your CLI and the one you are aiming at align.
