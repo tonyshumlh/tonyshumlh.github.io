@@ -1,1 +1,5 @@
 /.quarto/
+.ipynb_checkpoints
+.Rhistory
+__pycache__
+.DS_Store
